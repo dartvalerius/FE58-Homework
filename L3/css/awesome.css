@@ -52,7 +52,7 @@
     margin: 0 auto 30px;
     display: flex;
     justify-content: center;
-    padding: 20px;
+    align-items: center;
 }
 
 .awesome-card__title {
